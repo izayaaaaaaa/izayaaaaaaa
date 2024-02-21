@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="https://www.izaya.me" target="_blank">Francyn</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-I am a full-stack developer and a pen testing enthusiast from the Philippines.
+I am a full-stack developer and a cybersecurity enthusiast.
 
 ## My Journey Through Code
 
