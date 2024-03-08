@@ -11,8 +11,8 @@ I am a full-stack developer and a cybersecurity enthusiast.
 ## Tech Stack Mastery
 
 - **Languages**: Java, JavaScript, PHP, Python, and more.
-- **Frameworks & Libraries**: React, Vue, Laravel, MongoDB, MySQL, PostgreSQL.
-- **Tools & Tech**: CI/CD, Containerization, Version Control, RESTful APIs, MVC, Linux, Agile methodologies.
+- **Frameworks & Libraries**: React, Vue, Laravel, MongoDB, MySQL, PostgreSQL, NestJS.
+- **Tools & Tech**: CI/CD, Containerization, Version Control, RESTful APIs, GraphQL, MVC, Linux, Agile methodologies.
 
 ## Side Quests
 
